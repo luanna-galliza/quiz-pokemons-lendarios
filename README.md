@@ -9,7 +9,6 @@ LinkedIn | GitHub
 
 🧩 Como jogar
 
-Clone o repositório:
 O jogo abrirá em https://luanna-galliza.github.io/quiz-pokemons-lendarios/
 
 📌 Funcionalidades
