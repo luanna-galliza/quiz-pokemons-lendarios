@@ -32,9 +32,6 @@ CSS3
 
 JavaScript
 
-React 
-
-JSON 
 
 📄 Licença
 
