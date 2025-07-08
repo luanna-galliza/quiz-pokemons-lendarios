@@ -1,7 +1,7 @@
 🧠✨ Legendary Pokémon Quiz
 Um jogo de perguntas e respostas interativo sobre Pokémons Lendários, feito para desafiar os verdadeiros mestres Pokémon! Teste seus conhecimentos e descubra quantos você realmente conhece!
 
-🧝‍♀️ Autor(a)
+🧝‍♀️ Autor(a):
 Feito com 💙 por Luanna Galliza
 LinkedIn | GitHub
 
