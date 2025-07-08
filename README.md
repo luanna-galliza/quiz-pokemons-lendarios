@@ -2,14 +2,17 @@
 
 Um jogo de perguntas e respostas interativo sobre Pokémons Lendários, feito para desafiar os verdadeiros mestres Pokémon! Teste seus conhecimentos e descubra quantos você realmente conhece!
 
+
 🧝‍♀️ Autor(a)
 
 Feito com 💙 por Luanna Galliza
 LinkedIn | GitHub
 
+
 🧩 Como jogar
 
 O jogo abrirá em https://luanna-galliza.github.io/quiz-pokemons-lendarios/
+
 
 📌 Funcionalidades
 
@@ -22,6 +25,7 @@ Feedback visual para respostas certas e erradas.
 Design responsivo e amigável.
 
 Reinício do jogo com um clique.
+
 
 🚀 Tecnologias utilizadas
 
